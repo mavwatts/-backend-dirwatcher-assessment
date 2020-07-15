@@ -13,7 +13,7 @@ import logging
 import time
 import signal
 
-
+ 
 logger = logging.getLogger(__file__)
 files = {}
 exit_flag = False
