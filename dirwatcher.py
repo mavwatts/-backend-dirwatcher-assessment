@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-__author__ = "Chris Warren"
+__author__ = "Mavrick Watts with assistance from Chris, Nikal, Lori, Albina"
 
 import errno
 import os
